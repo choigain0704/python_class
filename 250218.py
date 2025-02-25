@@ -80,3 +80,4 @@ email.index("@")
 print(email.split("@")[1])
 print(email[:email.find("@")]) #슬라이싱
 
+
