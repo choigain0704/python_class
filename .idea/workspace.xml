@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43119fa8-e7d3-4245-b211-1293fab935ce" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/250221.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/250225.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/250227.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/250304(가위바위보게임).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/250304(숫자맞추기게임).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/250306.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/250307.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/250311.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/250313.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/250318(1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/250318(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/250218.py" beforeDir="false" afterPath="$PROJECT_DIR$/250218.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +49,16 @@
     "Python.250220.executor": "Run",
     "Python.250221.executor": "Run",
     "Python.250225.executor": "Run",
+    "Python.250227.executor": "Run",
+    "Python.250304(가위바위보게임).executor": "Run",
+    "Python.250304(숫자맞추기게임).executor": "Run",
+    "Python.250304.executor": "Run",
+    "Python.250306.executor": "Run",
+    "Python.250307.executor": "Run",
+    "Python.250311.executor": "Run",
+    "Python.250313.executor": "Run",
+    "Python.250318(1).executor": "Run",
+    "Python.250318(2).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -62,5 +82,16 @@
       <updated>1740045432641</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
