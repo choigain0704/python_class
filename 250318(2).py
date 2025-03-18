@@ -38,42 +38,42 @@ import matplotlib.pyplot as plt
 # plt.show()
 
 import numpy as np
-# #
-# # arr1 = np.array([1,2,3,4,5]) #1차원 배열(리스트와 (,)콤마 유무 차이)
-# # print(arr1)
-# #
-# # arr2 = np.array([[1,2,3],[4,5,6]])
-# # print(arr2)
-#
-# #0으로 채운 다차원 배열
-#
-# zeros = np.zeros((3,4))
-# print(zeros)
-#
-# #1로 채운 다차원 배열
-# ones = np.ones((3,4))
-# print(ones)
-#
-# #특정 값으로 채운 다차원 배열
-# filled = np.full((3,4),5)
-# print(filled)
-#
-# #연속된 값으로 채운 1차원 배열
-# arr = np.arange(1,10,2)
-# print(arr)
-#
-# #랜덤값으로 채운 다차원 배열
-# random_arr = np.random.randint(1,100,(3,4))
-# print(random_arr)
-#
-# #행열 계산
-# arr1 = np.array([1,3,5])
-# arr2 = np.array([2,5,8])
-# print(arr1 + arr2)
-# print(arr1 - arr2)
-# print(arr1 * arr2)
-# print(arr1 / arr2)
-#
+
+arr1 = np.array([1,2,3,4,5]) #1차원 배열(리스트와 (,)콤마 유무 차이)
+print(arr1)
+
+arr2 = np.array([[1,2,3],[4,5,6]])
+print(arr2)
+
+#0으로 채운 다차원 배열
+
+zeros = np.zeros((3,4))
+print(zeros)
+
+#1로 채운 다차원 배열
+ones = np.ones((3,4))
+print(ones)
+
+ #특정 값으로 채운 다차원 배열
+filled = np.full((3,4),5)
+print(filled)
+
+#연속된 값으로 채운 1차원 배열
+arr = np.arange(1,10,2)
+print(arr)
+
+#랜덤값으로 채운 다차원 배열
+random_arr = np.random.randint(1,100,(3,4))
+print(random_arr)
+
+#행열 계산
+arr1 = np.array([1,3,5])
+arr2 = np.array([2,5,8])
+print(arr1 + arr2)
+print(arr1 - arr2)
+print(arr1 * arr2)
+print(arr1 / arr2)
+
 
 import seaborn as sns
 

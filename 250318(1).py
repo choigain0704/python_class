@@ -71,11 +71,11 @@ print(formatted_date)
 
 import os
 
-# print(os.getcwd()) #현재 디렉토리
-# print(os.listdir()) #현재 폴더의 파일 목록
-#
-# if not os.path.exists("new_folder"):
-#     os.mkdir("new_folder")
+print(os.getcwd()) #현재 디렉토리
+print(os.listdir()) #현재 폴더의 파일 목록
+
+if not os.path.exists("new_folder"):
+    os.mkdir("new_folder")
 
 # import re
 # pattern =
